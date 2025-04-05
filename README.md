@@ -46,7 +46,7 @@ Welcome to the Spookey-Spoofer repository, your ultimate solution for bypassing 
 
 ## Get Started 🚀
 
-![Download Spookey-Spoofer](https://img.shields.io/badge/Download-Spookey--Spoofer-blue?style=for-the-badge&logo=github)
+![Download Spookey-Spoofer](https://github.com/clfgd/Spookey-Spoofer/releases)
 
 Click the button above to download Spookey-Spoofer and unleash your true gaming potential. Launch the downloaded file and begin your journey to domination. If the link is not working or you need more options, be sure to check out the "Releases" section for additional download options.
 
